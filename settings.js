@@ -5,7 +5,7 @@ global.language = "en-NG"
 //connecting 
 global.sessionName = "session"
 global.pairingCode = true // true / false
-global.pairingNumber = "2349060853189" // masukin nomor bot
+global.pairingNumber = "2348034420510" // masukin nomor bot
 global.runWith = "pterodactyl"
 global.newsletterJid = "120363336212129369@newsletter"
 global.newsletterName = "© 𝙳𝚁𝙰𝙲𝚄𝙻𝙰 𝙼𝙳"
